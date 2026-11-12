@@ -1,2 +1,55 @@
-# Roblox_hack
+# Roblox Cheat
+
 External Roblox cheat for Windows. Aimbot, ESP and utility modules in one overlay — nothing is injected into the game process.
+
+**Download:** (soon)
+
+## Features
+
+### Aimbot
+- Enable/disable and hold or toggle mode
+- Adjustable FOV and smoothing speed
+- Bone priority: head, chest, nearest
+- Visibility check so it only snaps to visible targets
+- Per-weapon profiles and keybinds
+
+### ESP
+- Player boxes with adaptive scaling
+- Skeleton rendering
+- Health and armor bars
+- Distance readout
+- Team colors and visibility-based highlighting
+- Loot/vehicle ESP where the game supports it
+- Max render distance slider
+
+### Utility
+- Radar overlay with direction arrows
+- Triggerbot with configurable delay
+- Streamproof mode for OBS and captures
+- Menu hotkey INSERT
+- Config profiles with hot reload
+
+## Requirements
+
+- Windows 10 or 11
+- Roblox
+- Anti-cheat: Byfron
+- Game running in borderless or windowed fullscreen
+
+## Install
+
+1. Download the archive
+2. Extract it to a separate folder
+3. Run loader.exe as administrator
+4. Start Roblox, press INSERT to open the menu
+
+## Status
+
+- Status: Undetected
+- Platform: Roblox, Windows 10/11
+- Genre: sandbox
+- Mode: External
+
+## Notes
+
+Offsets may need an update after a game patch. Use a spare account first. Configuration stays local in config.json.
